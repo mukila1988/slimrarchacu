@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://tech.radiozamaneh.com/sitemap.xml
